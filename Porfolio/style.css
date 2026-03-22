@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #1d2671, #c33764);
+  color: white;
+  scroll-behavior: smooth;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: rgba(255,255,255,0.1);
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+}
+
+.project {
+  margin-top: 10px;
+}
+
+.skills span {
+  display: inline-block;
+  background: #00c9a7;
+  padding: 8px 12px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+input, textarea {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  padding: 10px;
+  background: #00c9a7;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #00a387;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
