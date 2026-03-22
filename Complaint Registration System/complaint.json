@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2",
+    "name": "aarushi singh",
+    "email": "aaru767837@gmail.com",
+    "phone": "+918595651285",
+    "category": "product",
+    "subject": "lost",
+    "description": "qasdgfhgnhmnjk",
+    "status": "resolved",
+    "date": "2026-01-31T23:41:15.517317"
+  },
+  {
+    "id": "1",
+    "name": "aarushi singh",
+    "email": "aaru767837@gmail.com",
+    "phone": "+918595651285",
+    "category": "technical",
+    "subject": "regarding this this",
+    "description": "so blah blah",
+    "status": "pending",
+    "date": "2026-01-21T21:46:29.300217"
+  }
+]
