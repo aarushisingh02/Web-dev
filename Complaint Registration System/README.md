@@ -276,28 +276,4 @@ For production use, you should add:
 **Data Storage:**
 - JSON file (complaints.json)
 
-## 🎓 Learning Objectives
 
-This project demonstrates:
-- Frontend-backend communication
-- REST API design
-- CRUD operations
-- Event handling in JavaScript
-- Form validation
-- Responsive web design
-- Async/await in JavaScript
-- Flask routing and request handling
-
-## 📄 License
-
-This project is free to use for educational purposes.
-
-## 👨‍💻 Author
-
-Created as a student project for learning full-stack web development.
-
----
-
-**Happy Coding! 🚀**
-
-If you encounter any issues, check the troubleshooting section or review the console logs in your browser's developer tools.
